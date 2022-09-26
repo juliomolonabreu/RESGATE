@@ -1,6 +1,6 @@
 # RESGATE
 
-Acionando todos os autobots...
+loop autobots ()
 
 
   "bot": {
